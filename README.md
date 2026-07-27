@@ -8,7 +8,7 @@ Estudante do 6º semestre de **Sistemas de Informação na FMU** e entusiasta do
 
 - 🎓 Graduando em **Sistemas de Informação**.
 - 🐍 Desenvolvimento em **Python** (automação, tratamento de dados, processamento de imagens e scripts).
-- ☕ Conhecimentos acadêmicos e práticos em **Java**, **C++** e banco de dados **SQL Server**.
+- ☕ Conhecimentos acadêmicos e práticos em **C++** e banco de dados **SQL Server**.
 - 📂 Experiência com arquiteturas de repositórios digitais e tratamento de metadados.
 
 ---
