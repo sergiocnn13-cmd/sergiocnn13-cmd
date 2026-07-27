@@ -25,8 +25,8 @@ Estudante do 6º semestre de **Sistemas de Informação na FMU** e entusiasta do
 ### 📊 Minhas Estatísticas no GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sergiocnn13&show_icons=true&theme=radial&hide_border=true" alt="Estatísticas do GitHub" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiocnn13&layout=compact&theme=radial&hide_border=true" alt="Linguagens Mais Usadas" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sergiocnn13&show_icons=true&theme=dark&hide_border=true" alt="Estatísticas do GitHub" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiocnn13&layout=compact&theme=dark&hide_border=true" alt="Linguagens Mais Usadas" height="150"/>
 </div>
 
 ---
