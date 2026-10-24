@@ -1,6 +1,6 @@
 # Olá, eu sou o Sérgio Ramos! 👋
 
-Estudante do 6º semestre de **Sistemas de Informação na FMU** e entusiasta do desenvolvimento de software e gerenciamento de dados. Atualmente atuo com suporte técnico e organização de acervos/metadados no **IPEN**.
+Estudante do 7º semestre de **Sistemas de Informação na FMU** e entusiasta do desenvolvimento de software e gerenciamento de dados. Atualmente atuo com suporte técnico e organização de acervos/metadados no **IPEN**.
 
 ---
 
